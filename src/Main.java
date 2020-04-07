@@ -22,6 +22,6 @@ public class Main
         list3.add(200);
         System.out.print("Result => ");
         System.out.println(org.concatAndSort(list1, list2, list3));
-
+        System.out.println("Successfully reverted in Git");
     }
 }
